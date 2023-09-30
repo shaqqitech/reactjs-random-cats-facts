@@ -31,7 +31,7 @@ const CatFacts = () => {
   return (
     <>
       <main className="min-h-screen w-screen bg-gray-900 flex justify-center items-center flex-col ">
-        <div className="w-full h-full space-y-6  flex justify-center items-center flex-col text-white">
+        <div className="w-96 h-full space-y-6  flex justify-center items-center flex-col text-white">
           <h1 className="font-bold text-3xl lg:text-4xl text-green-500">
             Cats Facts
           </h1>
